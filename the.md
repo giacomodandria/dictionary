@@ -1,6 +1,6 @@
 # Usage of the Article "THE"
 
-The definite article "the" is the most common word in the English language. It is used to <strong>refer to specific or particular nouns</strong>. Here's a detailed look at its usage:
+The definite article "the" is the most common word in the English language. It is used to **refer to specific or particular nouns**. Here's a detailed look at its usage:
 
 ## General Rules
 
